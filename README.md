@@ -1,2 +1,1 @@
-# PrepCourse-HenryDic
-Repositorio del módulo 2
+Esto es una prueba de como crear un repositorio en GitHub y guardarlo en mi computadora local
